@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: pl.mjb.micronaut
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, http-client, junit, kotlin, kotlin-application, logback, maven, netty-server, openapi, readme, shade, yaml]
